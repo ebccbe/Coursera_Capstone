@@ -1,5 +1,5 @@
-# Coursera_Capstone
-IBM Applied Data Science Capstone Project
+### Coursera_Capstone
+## IBM Applied Data Science Capstone Project
 
 # The Battle of Neighborhoods
 # Analysis of Chicago Suburbs for A Prospective Restaurant Location
@@ -18,8 +18,3 @@ Ref: https://www.census.gov/quickfacts/fact/table/US/PST045219
 3) Each suburbs Latitude and Longitude is retrieved using OpenCage Geocoder Python package.
 4) Foursquare API is used to explore different venues and frequencies in each suburb, data retrieved will be helpful in clustering the suburbs based on their development.
 Foursquare API Developer Access: https://developer.foursquare.com/
-Table 1: Suburb’s Top 10 Venues
-Methodology
-Methodology includes:
-1. Data Retrieval, exploration, and wrangling
-2. Performing K-mean C
