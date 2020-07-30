@@ -1,8 +1,6 @@
-# Coursera_Capstone
-## IBM Applied Data Science Capstone Project
+# IBM Applied Data Science Capstone Project
 
-## The Battle of Neighborhoods
-## Analysis of Chicago Suburbs for A Prospective Restaurant Location
+## The Battle of Neighborhoods - Analysis of Chicago Suburbs for A Prospective Restaurant Location
 
 ### Introduction
 Chicago is the third most populous city in the United States and has diverse population. Chicago’s 58 million domestic and international visitors in 2018 made it the second most visited city in US when compared to New York City’s 65 million visitors. Chicago is famous for large number of regional specialties (cuisines) which reflect the city’s ethnic and working-class roots. Large number of world-famous chefs have their restaurants in the City of Chicago.
